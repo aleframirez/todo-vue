@@ -8,7 +8,7 @@
         type="text"
         name="content"
         id="content"
-        placeholder="e.g. make a video"
+        placeholder="e.g. buy some bread"
         v-model="input_content"
       />
 
